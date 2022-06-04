@@ -26,6 +26,14 @@ $ mitmdump -s cgss_script.py
 
 ![プロキシ設定 2](docs/proxy_settings_2.png)
 
+- http://mitm.it にアクセスし、Windows 用の証明書をダウンロード
+
+![mitm.it](docs/mitm_proxy_website.png)
+
+- 手順に従い、証明書をコンピュータにインストールする
+
+![証明書のインストール](docs/cert_install.png)
+
 - DMM版アイドルマスターシンデレラガールズスターライトステージを起動
 
 ![デレステタイトル](docs/imascg_title.png)
